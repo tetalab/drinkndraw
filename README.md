@@ -3,6 +3,8 @@ drinkndraw
 
 Pixel drinks
 
+![Fresque](tetalab.github.com/drinkndraw/img/fresques/fresque_dnd_finie.jpg)
+
 ## Contexte
 
 GOM et Vinz, des potes qui font un jeu de coloriage de pixels 1 fois par mois dans un bar (c'était
