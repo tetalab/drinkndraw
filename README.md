@@ -3,7 +3,7 @@ drinkndraw
 
 Pixel drinks
 
-![Fresque](tetalab.github.com/drinkndraw/img/fresques/fresque_dnd_finie.jpg)
+![Fresque](https://github.com/tetalab/drinkndraw/blob/master/img/fresques/fresque_dnd_finie.jpg)
 
 ## Contexte
 
