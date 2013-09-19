@@ -3,7 +3,7 @@ drinkndraw
 
 Pixel drinks
 
-# Contexte
+## Contexte
 
 GOM et Vinz, des potes qui font un jeu de coloriage de pixels 1 fois par mois dans un bar (c'était
 à la loupiotte les 2 dernieres années) et qui sont passé au lab hier pour voir comment ils pourraient
