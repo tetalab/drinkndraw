@@ -21,4 +21,23 @@ Idéalement, le world of d'n'd nécessite :
 	- dans le bar  
 		- un écran qui affiche une page web.  
 			- la page web présente l'état d'avancement de la fresque  
+
+
+un motif est une grille de 16/32/64/128/256 cases
+un motif a une couleur dominante de fond. 
+on peut faire varier la couleur dominante pour chaque case du motif. 
+suivant deux variantes plus claires et deux vaiante plus sombres en dégradé.
+la couleur dominante du motif est la couleur médiane dans cet ensemble de 5 teintes.
+
+le motif est l'expression d'un pixel de la fresque.
+les motifs sont envoyé aux utilisateurs de l'application.
+
+La fresque est composé de tous les pixels.
+chaque pixel est un motif.
+
+
+cycle 1
+1 -- un utilisateur reçoit un motif
+2 -- chaque motif a une couleur dominante 
+
 		
