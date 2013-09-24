@@ -40,17 +40,17 @@ chaque pixel est un motif.
 
 ## cycle 1  
 
-1 -- un utilisateur reçoit un motif
-2 -- chaque motif a une couleur dominante (la couleur médiane)
-3 -- il colorie
-	3a -- il peut changer la résolution (grille de 16/32/64/128/256)  
-	3b -- il peut dire qu'il a terminé son dessin (signer le motif)
-	3c -- s'il ne fait rien pendant t secondes,  
-		3c1 -- pop-up (avec time out)
-			-- si le délai du popup est passé, le motif est rendu à la fresque
-	3d -- il rend le motif
-4 -- le motif est rendu à la fresque
-5 -- retour en 1
+1. un utilisateur reçoit un motif
+2. chaque motif a une couleur dominante (la couleur médiane)
+3. il colorie
+    1. il peut changer la résolution (grille de 16/32/64/128/256)  
+    2. il peut dire qu'il a terminé son dessin (signer le motif)
+    3. s'il ne fait rien pendant t secondes,  
+        1. pop-up (avec time out)
+        2. si le délai du popup est passé, le motif est rendu à la fresque
+    4. il rend le motif
+4. le motif est rendu à la fresque
+5. retour en 1
 
 
 
