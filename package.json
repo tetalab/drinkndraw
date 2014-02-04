@@ -28,5 +28,13 @@
   "window": {
     "icon": "favicon.png",
     "toolbar": false
+  },
+  "devDependencies": {
+    "gulp": "~3.5.1",
+    "gulp-util": "~2.2.14"
+  },
+  "dependencies": {
+    "redis": "~0.10.0",
+    "socket.io": "~0.9.16"
   }
 }
