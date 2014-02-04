@@ -1,0 +1,32 @@
+{
+  "name": "drinkndraw",
+  "main": "index.nw.html",
+  "description": "Drink'n'Draw pixel game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetalab/drinkndraw.git"
+  },
+  "homepage": "http://www.drinkanddraw-tlse.org/",
+  "keywords": [
+    "socket.io",
+    "pixel",
+    "game",
+    "collaborative",
+    "drinkndraw",
+    "whiteboard"
+  ],
+  "licenses": [
+    {
+      "type": "LICENSE",
+      "url": "http://github.com/tetalab/drinkndraw/LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tetalab/drinkndraw/issues"
+  },
+  "window": {
+    "icon": "favicon.png",
+    "toolbar": false
+  }
+}
